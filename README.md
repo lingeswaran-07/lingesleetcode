@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
+## Math
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
