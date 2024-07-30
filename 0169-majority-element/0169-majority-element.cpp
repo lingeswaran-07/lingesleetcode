@@ -8,7 +8,7 @@ public:
         int res=0;
         int max=0;
         for(auto it:mp){
-            if(it.second>max){
+            if(it.second>(nums.size()/2)){
                 max=it.second;
                 res=it.first;
                 
