@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/lingeswaran-07/linuglingu/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
