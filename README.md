@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lingeswaran-07/linuglingu/tree/master/0485-max-consecutive-ones) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lingeswaran-07/linuglingu/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1511-count-number-of-teams](https://github.com/lingeswaran-07/linuglingu/tree/master/1511-count-number-of-teams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lingeswaran-07/linuglingu/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
