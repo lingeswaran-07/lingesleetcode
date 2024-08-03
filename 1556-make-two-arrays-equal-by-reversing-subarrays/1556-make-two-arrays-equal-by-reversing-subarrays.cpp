@@ -4,10 +4,7 @@ public:
         sort(arr.begin(),arr.end());
         sort(target.begin(),target.end());
         for(int i=0;i<target.size();i++){
-                if(target[i]==arr[i]){
-                    continue;
-                }
-                else{
+                if(target[i]!=arr[i]){
                     return false;
                 }
         }
