@@ -16,6 +16,6 @@ public:
         for(int i =left-1;i<right;i++){
               res=(res+vec[i])%mod;
         }
-        return static_cast<int>(res);
+        return res;
     }
 };
