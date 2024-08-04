@@ -13,11 +13,10 @@ public:
              while(left<right && !isVowel(s[right])){
                 right--;
             }
-            if(left<right){
                 swap(s[left],s[right]);
                 left++;
                 right--;
-            }
+            
         }
         return s;
         
