@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 ## Math
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
