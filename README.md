@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/lingeswaran-07/linuglingu/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
