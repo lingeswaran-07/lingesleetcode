@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lingeswaran-07/linuglingu/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
+| [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
