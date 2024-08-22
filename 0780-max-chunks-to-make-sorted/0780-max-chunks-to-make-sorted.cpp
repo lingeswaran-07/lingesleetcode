@@ -4,9 +4,7 @@ public:
         int maxi=0;
         int chunk=0;
         for(int i=0;i<arr.size();i++){
-            if(arr[i]>=maxi){
-                maxi=arr[i];
-            }
+              maxi=max(arr[i],maxi);
                if(maxi==i){
                         chunk++;
                 }
