@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
 ## Union Find
 |  |
 | ------- |
