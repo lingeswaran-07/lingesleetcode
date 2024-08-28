@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Union Find
 |  |
