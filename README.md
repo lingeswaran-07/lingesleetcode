@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/lingeswaran-07/linuglingu/tree/master/1293-three-consecutive-odds) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/lingeswaran-07/linuglingu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
