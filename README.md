@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
+| [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/lingeswaran-07/linuglingu/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -257,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
