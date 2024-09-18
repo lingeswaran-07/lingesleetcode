@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3582-find-indices-of-stable-mountains](https://github.com/lingeswaran-07/linuglingu/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
