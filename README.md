@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
+| [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/lingeswaran-07/linuglingu/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/1034-subarrays-with-k-different-integers) |
+| [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lingeswaran-07/linuglingu/tree/master/1615-range-sum-of-sorted-subarray-sums) |
