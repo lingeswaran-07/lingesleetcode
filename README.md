@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lingeswaran-07/linuglingu/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
