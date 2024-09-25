@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/lingeswaran-07/linuglingu/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0908-middle-of-the-linked-list) |
