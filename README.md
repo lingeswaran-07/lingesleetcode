@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/lingeswaran-07/linuglingu/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lingeswaran-07/linuglingu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/lingeswaran-07/linuglingu/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lingeswaran-07/linuglingu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0283-move-zeroes) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/lingeswaran-07/linuglingu/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lingeswaran-07/linuglingu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0908-middle-of-the-linked-list) |
