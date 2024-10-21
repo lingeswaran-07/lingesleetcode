@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/lingeswaran-07/linuglingu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0148-sort-list) |
