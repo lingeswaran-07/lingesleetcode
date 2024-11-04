@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3429-special-array-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/lingeswaran-07/linuglingu/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
