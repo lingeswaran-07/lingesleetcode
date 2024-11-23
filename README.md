@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0944-smallest-range-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
+| [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
+| [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
