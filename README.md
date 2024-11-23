@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lingeswaran-07/linuglingu/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1656-count-good-triplets](https://github.com/lingeswaran-07/linuglingu/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1791-richest-customer-wealth](https://github.com/lingeswaran-07/linuglingu/tree/master/1791-richest-customer-wealth) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/lingeswaran-07/linuglingu/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/lingeswaran-07/linuglingu/tree/master/1791-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
