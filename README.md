@@ -398,9 +398,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
