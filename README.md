@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/lingeswaran-07/linuglingu/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/lingeswaran-07/linuglingu/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/lingeswaran-07/linuglingu/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/1034-subarrays-with-k-different-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
