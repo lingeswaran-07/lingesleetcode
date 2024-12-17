@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/lingeswaran-07/linuglingu/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0434-number-of-segments-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
