@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0434-number-of-segments-in-a-string) |
+| [1156-occurrences-after-bigram](https://github.com/lingeswaran-07/linuglingu/tree/master/1156-occurrences-after-bigram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1537-maximum-score-after-splitting-a-string) |
