@@ -9,7 +9,7 @@ public:
            vec.push_back(a);
         }
         vector<string>ans;
-        for (int i=0;i<vec.size()-2;i++){
+        for (size_t i=0;i<vec.size()-2;i++){
             if(vec[i]==first && vec[i+1]==second){
                      ans.push_back(vec[i+2]);
             }
