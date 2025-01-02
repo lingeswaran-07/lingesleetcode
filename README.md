@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
+| [0790-global-and-local-inversions](https://github.com/lingeswaran-07/linuglingu/tree/master/0790-global-and-local-inversions) |
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/lingeswaran-07/linuglingu/tree/master/0907-koko-eating-bananas) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0790-global-and-local-inversions](https://github.com/lingeswaran-07/linuglingu/tree/master/0790-global-and-local-inversions) |
 | [0944-smallest-range-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0944-smallest-range-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
