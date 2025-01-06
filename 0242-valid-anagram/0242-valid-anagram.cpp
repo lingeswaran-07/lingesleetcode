@@ -7,7 +7,7 @@ public:
             mp1[c]++;
         }
         for(char c:t){
-            if(mp1.find(c)==mp1.end()){
+            if(mp1.find(c)==mp1.end() || mp1[c]==0){
                     return false;
             }
             mp1[c]--;
