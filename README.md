@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/lingeswaran-07/linuglingu/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/lingeswaran-07/linuglingu/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0208-implement-trie-prefix-tree) |
@@ -448,5 +449,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lingeswaran-07/linuglingu/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
