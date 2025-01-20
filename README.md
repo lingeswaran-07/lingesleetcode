@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
@@ -430,14 +431,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
