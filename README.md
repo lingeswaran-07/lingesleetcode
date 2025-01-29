@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0240-search-a-2d-matrix-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/lingeswaran-07/linuglingu/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lingeswaran-07/linuglingu/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lingeswaran-07/linuglingu/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
