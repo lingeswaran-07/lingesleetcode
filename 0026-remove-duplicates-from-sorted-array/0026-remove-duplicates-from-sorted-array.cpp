@@ -5,11 +5,7 @@ public:
        for(int i=0;i<nums.size();i++){
         st.insert(nums[i]);
        }
-       int i=0;
-       for(auto it:st){
-        nums[i]=it;
-        i++;
-       }
-       return i;
+       nums.assign(st.begin(),st.end());
+       return nums.size();
     }
 };
