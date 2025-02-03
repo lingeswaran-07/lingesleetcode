@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
 | [3221-find-the-peaks](https://github.com/lingeswaran-07/linuglingu/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
