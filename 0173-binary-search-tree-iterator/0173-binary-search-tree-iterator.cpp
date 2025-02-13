@@ -16,6 +16,12 @@ public:
        pushall(root);
         
     }
+    void pushall(TreeNode* root){
+    while(root!=NULL){
+        st.push(root);
+        root=root->left;
+    }
+   }
     
     int next() {
         TreeNode* temp=st.top();
@@ -28,13 +34,7 @@ public:
         return  !st.empty();
         
     }
-private:
-   void pushall(TreeNode* root){
-    while(root!=NULL){
-        st.push(root);
-        root=root->left;
-    }
-   }
+
 
 
 };
