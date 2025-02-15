@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/lingeswaran-07/linuglingu/tree/master/3582-find-indices-of-stable-mountains) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1791-richest-customer-wealth](https://github.com/lingeswaran-07/linuglingu/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2047-find-a-peak-element-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
