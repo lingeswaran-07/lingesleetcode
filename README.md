@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/lingeswaran-07/linuglingu/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2047-find-a-peak-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2047-find-a-peak-element-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lingeswaran-07/linuglingu/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/lingeswaran-07/linuglingu/tree/master/2350-find-closest-number-to-zero) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lingeswaran-07/linuglingu/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lingeswaran-07/linuglingu/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/lingeswaran-07/linuglingu/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lingeswaran-07/linuglingu/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
