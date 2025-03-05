@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0410-split-array-largest-sum) |
+| [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 | [1511-count-number-of-teams](https://github.com/lingeswaran-07/linuglingu/tree/master/1511-count-number-of-teams) |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
 ## Binary Indexed Tree
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lingeswaran-07/linuglingu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Backtracking
 |  |
