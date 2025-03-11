@@ -604,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/lingeswaran-07/linuglingu/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
