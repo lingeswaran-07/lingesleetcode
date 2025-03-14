@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/lingeswaran-07/linuglingu/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/lingeswaran-07/linuglingu/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/lingeswaran-07/linuglingu/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/lingeswaran-07/linuglingu/tree/master/0182-duplicate-emails) |
 | [1179-game-play-analysis-i](https://github.com/lingeswaran-07/linuglingu/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
