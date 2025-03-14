@@ -609,5 +609,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/lingeswaran-07/linuglingu/tree/master/0175-combine-two-tables) |
 | [1179-game-play-analysis-i](https://github.com/lingeswaran-07/linuglingu/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
