@@ -7,7 +7,9 @@ public:
         int maxi=INT_MIN;
         if(n==2) return min(height[0],height[1]);
         while(l<r){
-             maxi=max(maxi,min(height[l],height[r])*(abs(r-l)));
+            int m=min(height[l],height[r]);
+            int w=r-l;
+            maxi=max(maxi,m*w);
              if(height[l]<height[r]){
                 l++;
              }
