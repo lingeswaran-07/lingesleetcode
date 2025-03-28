@@ -4,8 +4,8 @@ public:
         int n=height.size();
         int l=0;
         int r=n-1;
-        int maxi=INT_MIN;
-        if(n==2) return min(height[0],height[1]);
+        int maxi=0;
+
         while(l<r){
             int m=min(height[l],height[r]);
             int w=r-l;
