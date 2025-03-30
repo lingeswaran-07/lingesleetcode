@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/lingeswaran-07/linuglingu/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/lingeswaran-07/linuglingu/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lingeswaran-07/linuglingu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/0152-maximum-product-subarray) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0145-binary-tree-postorder-traversal) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
