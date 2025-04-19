@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/lingeswaran-07/linuglingu/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lingeswaran-07/linuglingu/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/lingeswaran-07/linuglingu/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0263-ugly-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lingeswaran-07/linuglingu/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/lingeswaran-07/linuglingu/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lingeswaran-07/linuglingu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/0152-maximum-product-subarray) |
@@ -681,4 +683,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/lingeswaran-07/linuglingu/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/lingeswaran-07/linuglingu/tree/master/0182-duplicate-emails) |
 | [1179-game-play-analysis-i](https://github.com/lingeswaran-07/linuglingu/tree/master/1179-game-play-analysis-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lingeswaran-07/linuglingu/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
