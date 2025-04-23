@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/lingeswaran-07/linuglingu/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/lingeswaran-07/linuglingu/tree/master/0182-duplicate-emails) |
 | [1179-game-play-analysis-i](https://github.com/lingeswaran-07/linuglingu/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/lingeswaran-07/linuglingu/tree/master/1908-recyclable-and-low-fat-products) |
 ## Memoization
 |  |
 | ------- |
