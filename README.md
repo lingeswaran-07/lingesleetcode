@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
+| [3194-find-words-containing-character](https://github.com/lingeswaran-07/linuglingu/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lingeswaran-07/linuglingu/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/lingeswaran-07/linuglingu/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lingeswaran-07/linuglingu/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3194-find-words-containing-character](https://github.com/lingeswaran-07/linuglingu/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/3451-string-compression-iii) |
 ## Math
