@@ -11,14 +11,18 @@ public:
         }
         
         int nn=vec.size();
+        vector<int>v1;
         k=k%nn;
-        reverse(vec.begin(),vec.end());
-        reverse(vec.begin(),vec.begin()+k);
-        reverse(vec.begin()+k,vec.end());
+        for(int i=nn-k;i<nn;i++){
+            v1.push_back(vec[i]);
+        }
+        for(int i=0;i<nn-k;i++){
+            v1.push_back(vec[i]);
+        }
         int val=0;
       for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
-            grid[i][j]=vec[val];
+            grid[i][j]=v1[val];
             val++;
         }
       }
