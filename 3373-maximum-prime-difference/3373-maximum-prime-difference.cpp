@@ -1,24 +1,17 @@
 class Solution {
 public:
    int findprime(int &a){
-    int flag=0;
     if(a<=1) return 1;
       if(a==2 ){
         return 0;
       }
-       for(int i=2;i<a;i++){
+      if(a%2==0) return 1;
+       for(int i=3;i*i<=a;i+=2){
            if(a%i==0){
-              flag=1;
-              break;
+              return 1;
            }
        }
-       if(flag==0){
-        return 0;
-       }
-       else{
-        return 1;
-
-       }
+   return 0;
    }
     int maximumPrimeDifference(vector<int>& nums) {
         int n=nums.size();
