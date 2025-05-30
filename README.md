@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
+| [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
+| [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 ## Stack
 |  |
 | ------- |
