@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/lingeswaran-07/linuglingu/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lingeswaran-07/linuglingu/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lingeswaran-07/linuglingu/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lingeswaran-07/linuglingu/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lingeswaran-07/linuglingu/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/1477-product-of-the-last-k-numbers) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
 | [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/lingeswaran-07/linuglingu/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/lingeswaran-07/linuglingu/tree/master/0476-number-complement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/lingeswaran-07/linuglingu/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1839-decode-xored-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lingeswaran-07/linuglingu/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
 ## Linked List
 |  |
