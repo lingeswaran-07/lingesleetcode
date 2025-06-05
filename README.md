@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/lingeswaran-07/linuglingu/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/lingeswaran-07/linuglingu/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/lingeswaran-07/linuglingu/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/lingeswaran-07/linuglingu/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/lingeswaran-07/linuglingu/tree/master/0242-valid-anagram) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lingeswaran-07/linuglingu/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lingeswaran-07/linuglingu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/lingeswaran-07/linuglingu/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/lingeswaran-07/linuglingu/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/0338-counting-bits) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/lingeswaran-07/linuglingu/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lingeswaran-07/linuglingu/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lingeswaran-07/linuglingu/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/lingeswaran-07/linuglingu/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/0216-combination-sum-iii) |
 ## Design
 |  |
