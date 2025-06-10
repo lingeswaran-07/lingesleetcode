@@ -16,8 +16,11 @@ public:
             }
         }
        
-        int a=*max_element(e.begin(),e.end());
-        int b=*max_element(o.begin(),o.end());
-        return b-a;
+       for(int i:o){
+        for(int j:e){
+            ans=max(ans,i-j);
+        }
+       }
+       return ans;
     }
 };
