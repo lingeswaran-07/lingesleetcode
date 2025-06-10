@@ -2,9 +2,9 @@ class ParkingSystem {
 public:
   int B,M,S;
     ParkingSystem(int big, int medium, int small) {
-        this->B=big;
-        this->M=medium;
-        this->S=small;
+       B=big;
+        M=medium;
+        S=small;
     }
     
     bool addCar(int carType) {
