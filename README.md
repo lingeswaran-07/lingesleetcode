@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lingeswaran-07/linuglingu/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/lingeswaran-07/linuglingu/tree/master/3194-find-words-containing-character) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/lingeswaran-07/linuglingu/tree/master/1708-design-parking-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
