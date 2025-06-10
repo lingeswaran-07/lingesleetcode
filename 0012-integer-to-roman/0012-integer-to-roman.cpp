@@ -1,11 +1,19 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        string ones[] = {"","I","II","III","IV","V","VI","VII","VIII","IX"};
-        string tens[] = {"","X","XX","XXX","XL","L","LX","LXX","LXXX","XC"};
-        string hund[] = {"","C","CC","CCC","CD","D","DC","DCC","DCCC","CM"};
-        string thous[]={"","M","MM","MMM"};
-        
-        return thous[num/1000] + hund[(num%1000)/100] + tens[(num%100)/10] + ones[num%10];
+        int arr[]={1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        string r[]={"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
+   int i=0;
+   string ans="";
+        while(num!=0){
+            if(num>=arr[i]){
+                ans+=r[i];
+                num-=arr[i];
+            }
+            else{
+                i++;
+            }
+        }
+        return ans;
     }
 };
