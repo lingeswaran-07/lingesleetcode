@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0551-student-attendance-record-i) |
+| [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
 | [1156-occurrences-after-bigram](https://github.com/lingeswaran-07/linuglingu/tree/master/1156-occurrences-after-bigram) |
 | [1250-longest-common-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/lingeswaran-07/linuglingu/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/lingeswaran-07/linuglingu/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/lingeswaran-07/linuglingu/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/lingeswaran-07/linuglingu/tree/master/0983-validate-stack-sequences) |
