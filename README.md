@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/lingeswaran-07/linuglingu/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/lingeswaran-07/linuglingu/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/lingeswaran-07/linuglingu/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/lingeswaran-07/linuglingu/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/lingeswaran-07/linuglingu/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/lingeswaran-07/linuglingu/tree/master/0131-palindrome-partitioning) |
