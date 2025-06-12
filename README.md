@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/lingeswaran-07/linuglingu/tree/master/3582-find-indices-of-stable-mountains) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lingeswaran-07/linuglingu/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
