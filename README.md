@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/lingeswaran-07/linuglingu/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/lingeswaran-07/linuglingu/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/lingeswaran-07/linuglingu/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-smallest-range-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0944-smallest-range-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lingeswaran-07/linuglingu/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0924-fair-candy-swap](https://github.com/lingeswaran-07/linuglingu/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/lingeswaran-07/linuglingu/tree/master/1039-find-the-town-judge) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
+| [0924-fair-candy-swap](https://github.com/lingeswaran-07/linuglingu/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lingeswaran-07/linuglingu/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/lingeswaran-07/linuglingu/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lingeswaran-07/linuglingu/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lingeswaran-07/linuglingu/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
