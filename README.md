@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/lingeswaran-07/linuglingu/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lingeswaran-07/linuglingu/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1386-shift-2d-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/lingeswaran-07/linuglingu/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/lingeswaran-07/linuglingu/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lingeswaran-07/linuglingu/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/lingeswaran-07/linuglingu/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lingeswaran-07/linuglingu/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lingeswaran-07/linuglingu/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/lingeswaran-07/linuglingu/tree/master/1156-occurrences-after-bigram) |
 | [1250-longest-common-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lingeswaran-07/linuglingu/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/lingeswaran-07/linuglingu/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1537-maximum-score-after-splitting-a-string) |
