@@ -8,10 +8,11 @@ public:
         }
         int cnt=-1;
         for(auto&it:mp){
-            if(cnt==-1){
-                cnt=it.second;
-            }
-            if(cnt!=it.second) return false;
+            // if(cnt==-1){
+            //     cnt=it.second;
+            // }
+            // if(cnt!=it.second) return false;
+            if(it.second !=n/mp.size()) return false;
         }
         return true;
     }
