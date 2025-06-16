@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/lingeswaran-07/linuglingu/tree/master/0790-global-and-local-inversions) |
 | [0944-smallest-range-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/lingeswaran-07/linuglingu/tree/master/1013-fibonacci-number) |
+| [1195-distribute-candies-to-people](https://github.com/lingeswaran-07/linuglingu/tree/master/1195-distribute-candies-to-people) |
 | [1370-count-number-of-nice-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lingeswaran-07/linuglingu/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/1477-product-of-the-last-k-numbers) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/lingeswaran-07/linuglingu/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/lingeswaran-07/linuglingu/tree/master/0983-validate-stack-sequences) |
+| [1195-distribute-candies-to-people](https://github.com/lingeswaran-07/linuglingu/tree/master/1195-distribute-candies-to-people) |
 | [1386-shift-2d-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/1386-shift-2d-grid) |
 | [1708-design-parking-system](https://github.com/lingeswaran-07/linuglingu/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
