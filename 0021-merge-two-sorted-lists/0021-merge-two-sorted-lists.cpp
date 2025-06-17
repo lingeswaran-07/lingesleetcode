@@ -18,17 +18,20 @@ public:
         while(t1!=NULL && t2!=NULL){
             if(t1->val<t2->val){
                 temp->next=t1;
+              
                 temp=t1;
-                t1=t1->next;
+                  t1=t1->next;
             }
             else{
                  temp->next=t2;
+              
                 temp=t2;
-                t2=t2->next;
-
+                  t2=t2->next;
             }
         }
-        if(t1) temp->next=t1;
+        if(t1){
+            temp->next=t1;
+        }
         else{
             temp->next=t2;
         }
