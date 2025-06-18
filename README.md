@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lingeswaran-07/linuglingu/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/lingeswaran-07/linuglingu/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lingeswaran-07/linuglingu/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Recursion
 |  |
 | ------- |
