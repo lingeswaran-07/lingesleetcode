@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0414-third-maximum-number) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/lingeswaran-07/linuglingu/tree/master/0455-assign-cookies) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/lingeswaran-07/linuglingu/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0540-single-element-in-a-sorted-array) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lingeswaran-07/linuglingu/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/lingeswaran-07/linuglingu/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/lingeswaran-07/linuglingu/tree/master/0476-number-complement) |
