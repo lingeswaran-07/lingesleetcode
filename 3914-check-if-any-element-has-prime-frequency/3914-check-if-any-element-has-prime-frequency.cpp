@@ -8,7 +8,7 @@ public:
         return true;
       }
       if(a%2==0) return false;
-      for(int i=3;i*i<=a;i+=2){
+      for(int i=3;i*i<=a;i++){
         if(a%i==0 ) return false;
       }
       return true;
