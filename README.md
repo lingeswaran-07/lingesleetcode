@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lingeswaran-07/linuglingu/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/lingeswaran-07/linuglingu/tree/master/1293-three-consecutive-odds) |
