@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/lingeswaran-07/linuglingu/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2047-find-a-peak-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/lingeswaran-07/linuglingu/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lingeswaran-07/linuglingu/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2102-find-the-middle-index-in-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2102-find-the-middle-index-in-array) |
 | [3311-ant-on-the-boundary](https://github.com/lingeswaran-07/linuglingu/tree/master/3311-ant-on-the-boundary) |
 ## Linked List
 |  |
