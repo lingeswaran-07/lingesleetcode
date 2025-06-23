@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lingeswaran-07/linuglingu/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lingeswaran-07/linuglingu/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lingeswaran-07/linuglingu/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/lingeswaran-07/linuglingu/tree/master/0890-lemonade-change) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
