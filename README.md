@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lingeswaran-07/linuglingu/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3164-last-visited-integers](https://github.com/lingeswaran-07/linuglingu/tree/master/3164-last-visited-integers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/lingeswaran-07/linuglingu/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/lingeswaran-07/linuglingu/tree/master/1656-count-good-triplets) |
+| [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
 | [3221-find-the-peaks](https://github.com/lingeswaran-07/linuglingu/tree/master/3221-find-the-peaks) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Breadth-First Search
