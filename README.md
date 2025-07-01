@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lingeswaran-07/linuglingu/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/lingeswaran-07/linuglingu/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lingeswaran-07/linuglingu/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0540-single-element-in-a-sorted-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lingeswaran-07/linuglingu/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/lingeswaran-07/linuglingu/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lingeswaran-07/linuglingu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0924-fair-candy-swap](https://github.com/lingeswaran-07/linuglingu/tree/master/0924-fair-candy-swap) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/lingeswaran-07/linuglingu/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lingeswaran-07/linuglingu/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/lingeswaran-07/linuglingu/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0551-student-attendance-record-i) |
 | [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
