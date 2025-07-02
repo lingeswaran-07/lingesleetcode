@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0551-student-attendance-record-i) |
 | [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/lingeswaran-07/linuglingu/tree/master/1156-occurrences-after-bigram) |
 | [1250-longest-common-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/lingeswaran-07/linuglingu/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/lingeswaran-07/linuglingu/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2227-sum-of-subarray-ranges](https://github.com/lingeswaran-07/linuglingu/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
