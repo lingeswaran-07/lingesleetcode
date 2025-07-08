@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1751-slowest-key](https://github.com/lingeswaran-07/linuglingu/tree/master/1751-slowest-key) |
+| [1797-goal-parser-interpretation](https://github.com/lingeswaran-07/linuglingu/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/lingeswaran-07/linuglingu/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
