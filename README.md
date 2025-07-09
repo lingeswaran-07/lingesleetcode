@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2047-find-a-peak-element-ii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lingeswaran-07/linuglingu/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Dynamic Programming
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lingeswaran-07/linuglingu/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
