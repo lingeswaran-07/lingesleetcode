@@ -32,12 +32,13 @@ public:
             carry=sum/10;
             sum=carry;
             cur=n;
-
-
-        }
-        if(carry){
+             if(carry){
             cur->next=new ListNode(carry);
         }
+
+
+        }
+       
         return dummy->next;
         
     }
