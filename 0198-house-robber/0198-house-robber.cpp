@@ -1,20 +1,18 @@
 class Solution {
 public:
+
+    int func(int ind,vector<int>&nums,vector<int>&dp){
+        if(ind<0) return 0;
+        if(dp[ind] !=-1) return dp[ind];
+        int pick=nums[ind]+func(ind-2,nums,dp);
+        int npick=0+func(ind-1,nums,dp);
+        return dp[ind]=max(pick,npick);
+    }
     int rob(vector<int>& nums) {
-       int n=nums.size();
-     
-       if(n==0) return 0;
-       if(n<2){
-            return nums[0];
-       }
-    int prev2=0;
-    int prev1=nums[0];
-       for(int i=1;i<n;i++){
-            int cur=max(prev1,prev2+nums[i]);
-            prev2=prev1;
-            prev1=cur; 
-             
-       }
-       return prev1;
+      
+        int n=nums.size();
+          vector<int>dp(n+1,-1);
+        return func(n-1,nums,dp);
+        
     }
 };
