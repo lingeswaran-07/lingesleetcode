@@ -10,9 +10,24 @@ public:
     }
     int rob(vector<int>& nums) {
       
-        int n=nums.size();
-          vector<int>dp(n+1,-1);
-        return func(n-1,nums,dp);
+        int n=nums.size(); 
+        //   vector<int>dp(n+1,-1);
         
+        // return func(n-1,nums,dp);
+        int prev=nums[0];
+        int prev2=0;
+        for(int i=1;i<n;i++){
+            int t=nums[i];
+            if(i>1){
+                t+=prev2;
+            }
+            int nt=0+prev;
+            int cur=max(t,nt);
+            prev2=prev;
+            prev=cur;
+
+
+        }
+        return prev;
     }
 };
