@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0551-student-attendance-record-i) |
 | [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
+| [0961-long-pressed-name](https://github.com/lingeswaran-07/linuglingu/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/lingeswaran-07/linuglingu/tree/master/1156-occurrences-after-bigram) |
 | [1250-longest-common-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/1250-longest-common-subsequence) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lingeswaran-07/linuglingu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/lingeswaran-07/linuglingu/tree/master/0941-sort-array-by-parity) |
+| [0961-long-pressed-name](https://github.com/lingeswaran-07/linuglingu/tree/master/0961-long-pressed-name) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lingeswaran-07/linuglingu/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/lingeswaran-07/linuglingu/tree/master/2265-partition-array-according-to-given-pivot) |
