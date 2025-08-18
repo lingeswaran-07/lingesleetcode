@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lingeswaran-07/linuglingu/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/lingeswaran-07/linuglingu/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/0216-combination-sum-iii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lingeswaran-07/linuglingu/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/lingeswaran-07/linuglingu/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lingeswaran-07/linuglingu/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lingeswaran-07/linuglingu/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/lingeswaran-07/linuglingu/tree/master/1585-the-kth-factor-of-n) |
 | [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 ## Stack
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lingeswaran-07/linuglingu/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/lingeswaran-07/linuglingu/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lingeswaran-07/linuglingu/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
