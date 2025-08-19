@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2331-intersection-of-multiple-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/lingeswaran-07/linuglingu/tree/master/2350-find-closest-number-to-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/lingeswaran-07/linuglingu/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
