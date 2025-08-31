@@ -7,8 +7,8 @@ public:
             mp[num]++;
         }
         for(int num:order){
-            mp[num]++;
-            if(mp[num]==2){
+           
+            if(mp.find(num)!=mp.end()){
                 ans.push_back(num);
             }
         }
