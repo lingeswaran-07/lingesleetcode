@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/lingeswaran-07/linuglingu/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/lingeswaran-07/linuglingu/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/lingeswaran-07/linuglingu/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/lingeswaran-07/linuglingu/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lingeswaran-07/linuglingu/tree/master/0506-relative-ranks) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/lingeswaran-07/linuglingu/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lingeswaran-07/linuglingu/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/lingeswaran-07/linuglingu/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/lingeswaran-07/linuglingu/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lingeswaran-07/linuglingu/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/lingeswaran-07/linuglingu/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/lingeswaran-07/linuglingu/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1386-shift-2d-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/1386-shift-2d-grid) |
