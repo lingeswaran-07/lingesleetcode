@@ -2,45 +2,41 @@ class Solution {
 public:
     vector<int> getNoZeroIntegers(int n) {
         int l=1;
-        int h=n-1;
-        vector<int>vec;
-        while(l<=h){
+        int r=n;
+        while(l<=r){
+            int sum=l+r;
             int a=l;
-            int b=h;
-            int sum=0;
-            int flag=0;
-            int flag1=0;
-            while(a>0){
+            int b=r;
+            int flag1=1;
+            int flag2=1;
+            while(a!=0){
                 int d=a%10;
                 if(d==0){
-                 flag=1;
-                 break;
+                    l++;
+                    flag1=0;
+                    break;
                 }
                 a/=10;
             }
-            while(b>0){
+            while(b!=0){
                 int d=b%10;
                 if(d==0){
-                    flag1=1;
-                 break;
+                    flag2=0;
+                    r--;
+                    break;
                 }
                 b/=10;
-
             }
-            if(flag==0 && flag1==0){
-               a=l;
-               b=h;
-               sum=a+b;
+            if(sum==n && (flag1!=0 && flag2!=0)){
+                    return {l,r};
             }
-            if(sum==n){
-                vec.push_back(l);
-                vec.push_back(h);
-                break;
+            if(sum>=n && flag2==1){
+                r--;
             }
-            l++;
-            h--;
+            else if(sum<n && flag1==1){
+                l++;
+            }
         }
-        return vec;
-        
+        return {-1,-1};
     }
 };
