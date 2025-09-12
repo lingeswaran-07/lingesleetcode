@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/lingeswaran-07/linuglingu/tree/master/3195-separate-black-and-white-balls) |
 | [3396-valid-word](https://github.com/lingeswaran-07/linuglingu/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/lingeswaran-07/linuglingu/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [3462-vowels-game-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Heap (Priority Queue)
 |  |
@@ -974,4 +977,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/3790-fruits-into-baskets-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
