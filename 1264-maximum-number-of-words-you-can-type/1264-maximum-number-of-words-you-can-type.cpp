@@ -12,20 +12,16 @@ public:
             st.push_back(word);
         }
         int cnt=0;
-        for(int i=0;i<st.size();i++){
-            string s=st[i];
+        for(auto word:st){
             int flag=0;
-            for(int j=0;j<s.size();j++){
-                if(mp.find(s[j])!=mp.end()){
-                    flag=1;
+            for(int j=0;j<word.size();j++){
+                if(mp.find(word[j])!=mp.end()){
+                    cnt++;
                     break;
                 }
             }
-            if(!flag){
-                cnt++;
-            }
         }
 
-        return cnt;
+        return st.size()-cnt;
     }
 };
