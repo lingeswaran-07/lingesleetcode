@@ -1,6 +1,10 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
+        unordered_map<char,int>mp;
+        for(char ch:brokenLetters){
+            mp[ch]++;
+        }
         stringstream ss(text);
         string word;
         vector<string>st;
@@ -12,8 +16,9 @@ public:
             string s=st[i];
             int flag=0;
             for(int j=0;j<s.size();j++){
-                if(brokenLetters.find(s[j])!=string::npos){
+                if(mp.find(s[j])!=mp.end()){
                     flag=1;
+                    break;
                 }
             }
             if(!flag){
