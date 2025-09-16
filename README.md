@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/lingeswaran-07/linuglingu/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1072-next-greater-node-in-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/1072-next-greater-node-in-linked-list) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lingeswaran-07/linuglingu/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1256-rank-transform-of-an-array) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lingeswaran-07/linuglingu/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/lingeswaran-07/linuglingu/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/lingeswaran-07/linuglingu/tree/master/2227-sum-of-subarray-ranges) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/lingeswaran-07/linuglingu/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/lingeswaran-07/linuglingu/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/1072-next-greater-node-in-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/lingeswaran-07/linuglingu/tree/master/2227-sum-of-subarray-ranges) |
 ## Prefix Sum
 |  |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lingeswaran-07/linuglingu/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
