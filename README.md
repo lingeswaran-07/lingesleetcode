@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lingeswaran-07/linuglingu/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lingeswaran-07/linuglingu/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
