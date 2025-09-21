@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lingeswaran-07/linuglingu/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2331-intersection-of-multiple-arrays) |
+| [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lingeswaran-07/linuglingu/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/lingeswaran-07/linuglingu/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/lingeswaran-07/linuglingu/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/lingeswaran-07/linuglingu/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/2887-sort-vowels-in-a-string) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2331-intersection-of-multiple-arrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2331-intersection-of-multiple-arrays) |
+| [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lingeswaran-07/linuglingu/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/lingeswaran-07/linuglingu/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
