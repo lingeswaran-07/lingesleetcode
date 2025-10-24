@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/lingeswaran-07/linuglingu/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2047-find-a-peak-element-ii) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lingeswaran-07/linuglingu/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
