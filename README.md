@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2591-frog-jump-ii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/lingeswaran-07/linuglingu/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/lingeswaran-07/linuglingu/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/lingeswaran-07/linuglingu/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/lingeswaran-07/linuglingu/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lingeswaran-07/linuglingu/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lingeswaran-07/linuglingu/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lingeswaran-07/linuglingu/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/lingeswaran-07/linuglingu/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Union Find
