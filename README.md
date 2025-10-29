@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/lingeswaran-07/linuglingu/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
