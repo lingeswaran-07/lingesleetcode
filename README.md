@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/lingeswaran-07/linuglingu/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lingeswaran-07/linuglingu/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lingeswaran-07/linuglingu/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/lingeswaran-07/linuglingu/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/lingeswaran-07/linuglingu/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
