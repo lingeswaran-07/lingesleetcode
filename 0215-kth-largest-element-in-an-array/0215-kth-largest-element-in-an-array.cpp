@@ -9,6 +9,7 @@ public:
                 q.pop();
             }
         }
+        
         // int f=k-1;
         // while(f>0){
         //     q.pop();
