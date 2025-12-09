@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lingeswaran-07/linuglingu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lingeswaran-07/linuglingu/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/lingeswaran-07/linuglingu/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/lingeswaran-07/linuglingu/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lingeswaran-07/linuglingu/tree/master/0215-kth-largest-element-in-an-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/lingeswaran-07/linuglingu/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lingeswaran-07/linuglingu/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lingeswaran-07/linuglingu/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/lingeswaran-07/linuglingu/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/lingeswaran-07/linuglingu/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/lingeswaran-07/linuglingu/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/lingeswaran-07/linuglingu/tree/master/0898-transpose-matrix) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/lingeswaran-07/linuglingu/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/lingeswaran-07/linuglingu/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lingeswaran-07/linuglingu/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lingeswaran-07/linuglingu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0226-invert-binary-tree) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lingeswaran-07/linuglingu/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lingeswaran-07/linuglingu/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lingeswaran-07/linuglingu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0226-invert-binary-tree) |
