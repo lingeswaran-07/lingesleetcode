@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/lingeswaran-07/linuglingu/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/lingeswaran-07/linuglingu/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0662-maximum-width-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/lingeswaran-07/linuglingu/tree/master/1008-binary-tree-cameras) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/lingeswaran-07/linuglingu/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/lingeswaran-07/linuglingu/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
