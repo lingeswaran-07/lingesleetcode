@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1746-largest-substring-between-two-equal-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/lingeswaran-07/linuglingu/tree/master/1751-slowest-key) |
 | [1797-goal-parser-interpretation](https://github.com/lingeswaran-07/linuglingu/tree/master/1797-goal-parser-interpretation) |
+| [1844-replace-all-digits-with-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1844-replace-all-digits-with-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/lingeswaran-07/linuglingu/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
