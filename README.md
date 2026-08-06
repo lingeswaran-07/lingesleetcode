@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/lingeswaran-07/linuglingu/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lingeswaran-07/linuglingu/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3373-maximum-prime-difference](https://github.com/lingeswaran-07/linuglingu/tree/master/3373-maximum-prime-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lingeswaran-07/linuglingu/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lingeswaran-07/linuglingu/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3104-happy-students](https://github.com/lingeswaran-07/linuglingu/tree/master/3104-happy-students) |
 | [3221-find-the-peaks](https://github.com/lingeswaran-07/linuglingu/tree/master/3221-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/lingeswaran-07/linuglingu/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Breadth-First Search
 |  |
