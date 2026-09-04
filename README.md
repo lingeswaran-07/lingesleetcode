@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-slowest-key](https://github.com/lingeswaran-07/linuglingu/tree/master/1751-slowest-key) |
 | [1797-goal-parser-interpretation](https://github.com/lingeswaran-07/linuglingu/tree/master/1797-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/lingeswaran-07/linuglingu/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1903-largest-odd-number-in-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/lingeswaran-07/linuglingu/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/lingeswaran-07/linuglingu/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lingeswaran-07/linuglingu/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/lingeswaran-07/linuglingu/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/lingeswaran-07/linuglingu/tree/master/1806-count-of-matches-in-tournament) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1903-largest-odd-number-in-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lingeswaran-07/linuglingu/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lingeswaran-07/linuglingu/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/lingeswaran-07/linuglingu/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/lingeswaran-07/linuglingu/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1879-maximum-score-from-removing-stones](https://github.com/lingeswaran-07/linuglingu/tree/master/1879-maximum-score-from-removing-stones) |
+| [1903-largest-odd-number-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/1903-largest-odd-number-in-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lingeswaran-07/linuglingu/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/lingeswaran-07/linuglingu/tree/master/2497-maximum-matching-of-players-with-trainers) |
