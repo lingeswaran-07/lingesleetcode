@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/lingeswaran-07/linuglingu/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/lingeswaran-07/linuglingu/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/lingeswaran-07/linuglingu/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/lingeswaran-07/linuglingu/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/lingeswaran-07/linuglingu/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/lingeswaran-07/linuglingu/tree/master/0812-rotate-string) |
 ## Quickselect
 |  |
