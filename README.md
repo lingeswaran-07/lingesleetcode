@@ -1081,4 +1081,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lingeswaran-07/linuglingu/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lingeswaran-07/linuglingu/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
