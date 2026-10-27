@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/lingeswaran-07/linuglingu/tree/master/2187-vowels-of-all-substrings) |
 | [2226-rings-and-rods](https://github.com/lingeswaran-07/linuglingu/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/lingeswaran-07/linuglingu/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/lingeswaran-07/linuglingu/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/lingeswaran-07/linuglingu/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2475-largest-palindromic-number](https://github.com/lingeswaran-07/linuglingu/tree/master/2475-largest-palindromic-number) |
 | [2502-sort-the-people](https://github.com/lingeswaran-07/linuglingu/tree/master/2502-sort-the-people) |
